@@ -18,7 +18,7 @@ This phase involved bringing the FortiWifi online and securing management access
 
 | Configuration Step | Description | Commands/Notes (Conceptual) |
 | :--- | :--- | :--- |
-| **Internal LAN IP Assignment** | Configured the internal interface (e.g., `port1` or `internal`) with a static IP and DHCP server to establish the internal network (e.g., `192.168.1.1/24`). | Demonstrated proficiency in interface and network addressing configuration. |
+| **Internal LAN IP Assignment** | Configured the internal interface (e.g., `port1` or `internal`) with a static IP and DHCP server to establish the internal network (e.g., `192.168.1.0/24`). | Demonstrated proficiency in interface and network addressing configuration. |
 | **Admin Account Setup** | Created a dedicated, non-default administrative user with strong authentication for management access. | Essential security hardening by replacing/securing default accounts. |
 | **Firmware Update** | Ensured the FortiWifi was running the latest recommended FortiOS version for stability and security patches. | Adherence to security best practices. |
 
